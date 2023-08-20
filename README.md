@@ -3,4 +3,26 @@
   <img src="https://komarev.com/ghpvc/?username=elitefps&style=flat-square&color=blue" align="center" alt=""/>
 </div>
 
+
+
+
 ㅡ  Hi, I’m @elitefps. I’m interested in sports, computers and pretty much everything under the sun. Right now I’m currently studying computer science. Most of my work is either private, or obfuscated due to skids. I have and am creating a lot of tools in the future so stay tuned for that.   
+
+
+
+### :hammer_and_wrench: Languages:
+
+<div>
+  &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+</div>
+
+
+### :hammer_and_wrench: Tools:
+<div>
+
+  
+</div>
