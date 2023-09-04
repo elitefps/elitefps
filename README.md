@@ -10,7 +10,7 @@
 
 ㅡ⚽I’m interested in sports like, football, dodgeball and basketball.
 
-ㅡ📌I'm currently studying Computer Science. I mainly work with LuaU to create tools against ToS basically 'hacks'. Most of my work is either private or obfuscated if it's public.
+ㅡ📌I'm currently studying Computer Science. I mainly work with LuaU to create tools basically 'hacks'. Most of my work is either private or obfuscated if it's public.
 
 
 
