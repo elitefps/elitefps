@@ -4,8 +4,6 @@
 </div>
 
 
-
-
 ㅡ👋Hi, I’m @elitefps. 
 
 ㅡ⚽I’m interested in sports like, football, dodgeball and basketball.
