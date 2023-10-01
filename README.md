@@ -26,5 +26,5 @@
 
 ### :hammer_and_wrench: Tools:
 <div>
-  <img src="https://github.com/elitefps/blob/blob/main/AVERY.png"  title="Avery Hub" alt="Avery" width="180" height="190"/>&nbsp; 
+  <img src="https://github.com/elitefps/blob/blob/main/justavery.png"  title="Avery Hub" alt="Avery" width="180" height="190"/>&nbsp; 
 </div>
