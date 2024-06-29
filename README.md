@@ -39,5 +39,4 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elitefps
-)](https://github.com/anuraghazra/github-readme-stats)
+![elitefps's Stats](https://github-readme-stats.vercel.app/api?username=elitefps&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
