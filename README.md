@@ -33,7 +33,7 @@
     </a>
   </div>
    <blockquote>
-  <p dir="auto">I'm currently working on a free script-hub for the game <a href="https://www.roblox.com/home" rel="nofollow">Roblox</a>. This is something I've been working on for a little under 2 years, with a team of friends I know very well and trusted.</p>
+  <p dir="auto">I'm currently working on a free script-hub for the game <a href="https://www.roblox.com/home" rel="nofollow">Roblox</a>. This is something I've been working on for a little over 1 year.</p>
    </blockquote>
 </article>
 
