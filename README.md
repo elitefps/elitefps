@@ -1,48 +1,74 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
-  <div class="markdown-heading" dir="auto">
-    <h2 class="heading-element" dir="auto">Hello! 👋</h2>
-    <a id="user-content-hello-" class="anchor" aria-label="Permalink: Hello! 👋" href="#hello-">
-      <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-        <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
-      </svg>
-    </a>
-  </div>
+<img src="https://github.com/elitefps/blob/blob/main/greenish-botanical-memphis-pattern-background-vector.jpg" width="100%" alt="Banner"/>
 
-  <blockquote>
-    <p dir="auto">I'm elite. Better known as overtimexo. A Lua // Javascript // Partial Web Developer</p>
-  </blockquote>
+# 🌌 Welcome 
 
-  <p dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534">
-      <img src="https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="Python" data-canonical-src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" style="max-width: 100%;">
-    </a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/138ad1839f0327110a8878ff6299c893978ff2b0e044a7ea29f504ac434bc22f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c75612d2532333243324437322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c7561266c6f676f436f6c6f723d7768697465">
-      <img src="https://camo.githubusercontent.com/138ad1839f0327110a8878ff6299c893978ff2b0e044a7ea29f504ac434bc22f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c75612d2532333243324437322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c7561266c6f676f436f6c6f723d7768697465" alt="Lua" data-canonical-src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&amp;logo=lua&amp;logoColor=white" style="max-width: 100%;">
-    </a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.youtube.com/channel/UCqsyjxUySMR3gDl_KpyftuA">
-      <img src="https://camo.githubusercontent.com/4c91b5d587f82e3ea0df6978845aea9370200c5f626a2fa7d6e48d2db40c8aa0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d2532334646303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d596f7554756265266c6f676f436f6c6f723d7768697465" alt="YouTube" data-canonical-src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&amp;logo=YouTube&amp;logoColor=white" style="max-width: 100%;">
-    </a>
-  </p>
+> Hi, I’m **Elite**, also known as **Overtimexo**. I’ve been coding since I was around seven, but I got serious about it when I turnt fourteen, learning through LuaU in Roblox game development. Since then, I’ve been creating all kinds of projects and growing my skills. I’m a passionate **Lua, JavaScript, and Web Developer** who’s always diving deeper into programming, focused on problem-solving and continuous learning.
 
-  <div class="markdown-heading" dir="auto">
-    <h2 class="heading-element" dir="auto">Projects 🚧</h2>
-    <a id="user-content-projects-" class="anchor" aria-label="Permalink: Projects 🚧" href="#projects-">
-      <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-        <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
-      </svg>
-    </a>
-  </div>
-   <blockquote>
-  <p dir="auto">I'm currently working on a free script-hub for the game <a href="https://www.roblox.com/home" rel="nofollow">Roblox</a>. This is something I've been working on for a little over 1 year.</p>
-   </blockquote>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">GitHub Statistics 🤖</h2><a id="user-content-github-statistics-" class="anchor" aria-label="Permalink: GitHub Statistics 🤖" href="#github-statistics-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+> I also do content creation on the side and lot's more. 
+
+> I'm currently working on a free script-hub for the game Roblox. This is something I've been working on for a little over 1 year.
+---
+
+### 🛠️ **Programming Languages**
+
+![Python](https://img.shields.io/badge/-Python-0D1117?logo=Python&logoColor=3776AB&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?logo=JavaScript&logoColor=F7DF1E&style=for-the-badge)
+![Lua](https://img.shields.io/badge/-Lua-0D1117?logo=Lua&logoColor=2C2D72&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-0D1117?logo=Csharp&logoColor=239120&style=for-the-badge)
+![C++ (Learning)](https://img.shields.io/badge/-C++%20(Learning)-0D1117?logo=c%2b%2b&logoColor=00599C&style=for-the-badge)
+
+---
+
+### 🧩 **Technologies and Tools**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=FFF&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=000&style=flat-square)
+
+---
+
+### 🎯 **Projects (Open Sourced)**
+
+- **🤖 [Zyken](https://github.com/elitefps/Zyken)**: a multi purposed discord bot.
+
+### 🌟 **Websites** 
+- **🌐 [VixenV2](https://github.com/elitefps/VixenV2)**: VixenV2; the source code to a old Roblox Executor Website.
+
+- **🌐 [VanquishReality.com](https://github.com/elitefps/VanquishReality.com)**: A e-sport themed website. Open sourced feel free to paste!
+
+#### 🔐 **Cybersecurity Initiatives**
+- **🌐 [Monkey AC (2026)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**: Kernel-Level Anti-Cheat.
+
+---
+
+### 📊 **Statistics**
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@elitefps)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitefps&layout=compact)
+</a>
+
+---
+
+### 💡 **Quote of Wisdom**
+
+> "If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle."  
+> ― **Sun Tzu**
+
+---
+
+### 📫 **Stay in Touch**
+
+> Socials
+
+[![YouTube](https://img.shields.io/badge/-YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/elitefpss)
+[![X](https://img.shields.io/badge/-X-0D1117?style=for-the-badge&logo=x&logoColor=1DA1F2)](https://www.x.com/elitewtw)
 
 
 
+> Other 
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Discord Presence 🌙</h2><a id="user-content-discord-presence-" class="anchor" aria-label="Permalink: Discord Presence 🌙" href="#discord-presence-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+[![Website](https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.elite.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/elitefps)
+
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1109047212069093386)](https://discord.com/users/1109047212069093386)
+---
