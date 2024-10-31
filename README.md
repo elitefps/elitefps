@@ -1,6 +1,9 @@
 <img src="https://github.com/elitefps/blob/blob/main/greenish-botanical-memphis-pattern-background-vector.jpg" width="100%" alt="Banner"/>
-
-# 🌌 Welcome 
+<h1 align="center">
+  <samp>
+    🌌 Welcome!</a></b>
+  </samp>
+</h1>
 
 > Hi, I’m **Elite**, also known as **Overtimexo**. I’ve been coding since I was around seven, but I got serious about it when I turnt fourteen, learning through LuaU in Roblox game development. Since then, I’ve been creating all kinds of projects and growing my skills. I’m a passionate **Lua, JavaScript, and Web Developer** who’s always diving deeper into programming, focused on problem-solving and continuous learning.
 
