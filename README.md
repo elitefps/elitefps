@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?logo=JavaScript&logoColor=F7DF1E&style=for-the-badge)
 ![Lua](https://img.shields.io/badge/-Lua-0D1117?logo=Lua&logoColor=2C2D72&style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-0D1117?logo=Csharp&logoColor=239120&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++%20()-0D1117?logo=c%2b%2b&logoColor=00599C&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++%20-0D1117?logo=c%2b%2b&logoColor=00599C&style=for-the-badge)
 
 ---
 
