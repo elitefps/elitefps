@@ -26,21 +26,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=FFF&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=000&style=flat-square)
 
----
-
-### 🎯 **Projects (Open Sourced)**
-
-- **🤖 [Zyken](https://github.com/elitefps/Zyken)**: a multi purposed discord bot.
-
-### 🌟 **Websites** 
-- **🌐 [VixenV2](https://github.com/elitefps/VixenV2)**: VixenV2; the source code to a old Roblox Executor Website.
-
-- **🌐 [VanquishReality.com](https://github.com/elitefps/VanquishReality.com)**: A e-sport themed website. Open sourced feel free to paste!
-
-#### 🔐 **Cybersecurity Initiatives**
-- **🌐 [Monkey AC (2026)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**: Kernel-Level Anti-Cheat.
-
----
 
 ### 📊 **Statistics**
 
